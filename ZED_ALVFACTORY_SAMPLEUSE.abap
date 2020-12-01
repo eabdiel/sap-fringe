@@ -2,8 +2,8 @@
 *& Report  ZED_ALVFACTORY_SAMPLEUSE
 *&
 *&---------------------------------------------------------------------*
-*&
-*&
+*&  Test cases for ALV Factory methods; one for hierarchy view and 
+*&  another for ALV.
 *&---------------------------------------------------------------------*
 REPORT ZED_ALVFACTORY_SAMPLEUSE.
 *
