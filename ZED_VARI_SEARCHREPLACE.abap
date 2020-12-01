@@ -2,7 +2,7 @@
 *& Report  ZED_VARI_SEARCHREPLACE
 *&
 *&---------------------------------------------------------------------*
-*&
+*& search and replace variant values 
 *&
 *&---------------------------------------------------------------------*
 REPORT ZED_VARI_SEARCHREPLACE NO STANDARD PAGE HEADING
