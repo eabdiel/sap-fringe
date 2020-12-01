@@ -2,7 +2,7 @@
 *& Report  ZED_GUIBASED_PROGRESSBAR
 *&
 *&---------------------------------------------------------------------*
-*&
+*&  Gui Popup based statusbar
 *&
 *&---------------------------------------------------------------------*
 REPORT ZED_GUIBASED_PROGRESSBAR.
