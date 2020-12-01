@@ -37,3 +37,5 @@ DATA : ls_ddddlsrcv TYPE DDDDLSRCV,
     CATCH cx_dd_ddl_activate .
   ENDTRY.
   
+"To display the CDS view as ALV just use this one line of code;
+ cl_salv_gui_table_ida=>create_for_cds_view( 'ZSP_CDS_999' )->fullscreen( )->display( ).
