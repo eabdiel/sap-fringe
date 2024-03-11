@@ -1,8 +1,8 @@
-*&---------------------------------------------------------------------*
+*----------------------------------------------------------------------*
 *    This program takes a file, and encodes it using 128bit AES        *
 *    with a custom key.  It also provides the oportunity to decrypt    *
 *    the file.                                                         *
-*&---------------------------------------------------------------------*
+*----------------------------------------------------------------------*
 REPORT Z80SPECTRUMENCODING        NO STANDARD PAGE HEADING
         MESSAGE-ID zf
         LINE-SIZE  150
